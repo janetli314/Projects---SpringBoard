@@ -1,4 +1,5 @@
 /*
+Part 2
 When an energy provider provides energy to the market, they are making a commitment to the market and saying; “We will supply X amount of energy to the market under a contractual obligation.” However, in a situation where the outages are forced, the energy provider intended to provide energy but is unable to provide energy and is forced offline. If many energy providers are forced offline at the same time, it could cause an energy security risk that AEMR needs to mitigate.
 
 To ensure this doesn’t happen, the AEMR is interested in exploring the following questions:
